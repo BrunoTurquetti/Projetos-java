@@ -1,0 +1,22 @@
+# Arquivos compilados
+*.class
+
+# Pastas comuns de build
+bin/
+target/
+
+# Arquivos de log
+*.log
+
+# IDEs (Eclipse, IntelliJ, NetBeans)
+*.iml
+*.ipr
+*.iws
+.idea/
+.project
+.classpath
+.settings/
+
+# Outros arquivos temporários
+.DS_Store
+*.swp
